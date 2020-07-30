@@ -80,7 +80,7 @@ h4{
 @media (min-width: 768px) {
     .boton {
         display: inline-block;
-        flex: 0 0;
+        flex: 0 0 auto;
     }
 }
 
